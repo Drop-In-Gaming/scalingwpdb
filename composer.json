@@ -13,8 +13,8 @@
       "email": "jon@spacedmonkey.co.uk"
     },
     {
-      "name": "Richard Miles",
-      "email": "richard@miles.systems"
+      "name": "Sean Hurley",
+      "email": "sean.hurley@dropingaming.com"
     }
   ],
   "support"    : {
@@ -29,7 +29,7 @@
   "require": {
     "php": ">=8.1",
     "ext-mysqli": "*",
-    "richardtmiles/carbonphp": "14.*"
+    "drop-in-gaming/carbonphp": "1.*"
   },
   "require-dev": {
     "wp-cli/wp-cli-bundle": "2.7.1",
